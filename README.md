@@ -1,5 +1,6 @@
 # Hi, I'm Ertan Donmez
 Curious about new technologies | Movie buff |Self-improved | Never give up | Team player
+
 **I’ve recently graduated from SoftUni University as a Python Web Developer.**  
 ### I'm looking to collaborate on any Open Source Project
 
@@ -10,7 +11,7 @@ Curious about new technologies | Movie buff |Self-improved | Never give up | Tea
 
 ---
 
-### Courses and Educations:
+### Courses and Education:
 - **Certified Python Web Developer / 2022-2024** ([certificate](#))
 - Graduated: 2024, SoftUni
 - **Bachelor Degree in Faculty of Electronic Engineering and Technologies / 2002-2007**
