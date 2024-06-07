@@ -13,11 +13,11 @@ Curious about new technologies | Movie buff | Self-improved | Never give up | Te
 
 ### Courses and Education:
 - **Certified Python Web Developer / 2022-2024** ([certificate])
-- Graduated: 2024, SoftUni University
-- **Bachelor Degree in Faculty of Electronic Engineering and Technologies / 2002-2007**
-- Graduated: 2007, Technical University of Sofia
+     - Graduated: 2024, SoftUni University
+- **Bachelor's Degree in Electronic Engineering and Technologies / 2002-2007**
+     - Graduated: 2007, Technical University of Sofia
 - **Master’s degree for Business Administration / 2008-2011**
-- Graduated: 2011, Technical University of Sofia
+     - Graduated: 2011, Technical University of Sofia
   
 ---
 
