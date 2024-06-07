@@ -1,5 +1,5 @@
 # Hi, I'm Ertan Donmez
-Curious about new technologies | Movie buff |Self-improved | Never give up | Team player
+Curious about new technologies | Movie buff | Self-improved | Never give up | Team player
 
 **I’ve recently graduated from SoftUni University as a Python Web Developer.**  
 ### I'm looking to collaborate on any Open Source Project
@@ -13,7 +13,7 @@ Curious about new technologies | Movie buff |Self-improved | Never give up | Tea
 
 ### Courses and Education:
 - **Certified Python Web Developer / 2022-2024** ([certificate](#))
-- Graduated: 2024, SoftUni
+- Graduated: 2024, SoftUni University
 - **Bachelor Degree in Faculty of Electronic Engineering and Technologies / 2002-2007**
 - Graduated: 2007, Technical University of Sofia
 - **Master’s degree for Business Administration / 2008-2011**
@@ -35,6 +35,7 @@ Curious about new technologies | Movie buff |Self-improved | Never give up | Tea
 
 ---
 
+
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
@@ -42,6 +43,6 @@ Curious about new technologies | Movie buff |Self-improved | Never give up | Tea
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
-
+[certificate]: https://softuni.bg/certificates/details/208771/4949420d
 
 
