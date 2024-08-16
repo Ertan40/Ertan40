@@ -1,5 +1,5 @@
 # Hi, I'm Ertan Donmez
-Curious about new technologies | Movie buff | Self-improved | Never give up | Team player
+Passionate full stack developer | Curious about new technologies | Movie buff | Self-improved | Never give up | Team player
 
 **I’ve recently graduated from SoftUni University as a Python Web Developer.**  
 ### I'm looking to collaborate on any Open Source Project
