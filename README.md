@@ -24,7 +24,6 @@ Passionate full stack developer | Curious about new technologies | Movie buff | 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML & CSS](https://img.shields.io/badge/-HTML%20%26%20CSS-E34F26?style=flat&logo=html5&logoColor=white)
-![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=flat&logo=html5&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
